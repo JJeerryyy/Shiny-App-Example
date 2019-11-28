@@ -5,4 +5,4 @@
 #### https://shiny.rcg.sfu.ca/u/pla80/myapp/
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/JJeerryyy/Shiny-App-Example/blob/master/SFU_horizontal_logo_rgb.png "Logo Title Text 1")
