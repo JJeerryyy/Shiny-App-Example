@@ -1,4 +1,4 @@
-![alt text](https://github.com/JJeerryyy/Shiny-App-Example/blob/master/SFU_horizontal_logo_rgb.png "Logo Title Text 1")
+![alt text](https://github.com/JJeerryyy/Shiny-App-Example/blob/master/SFU_horizontal_logo_rgb.png "SFU Logo")
 # Shiny-App-Example
 ## one of my university project
 
